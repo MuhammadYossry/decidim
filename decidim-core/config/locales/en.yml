@@ -1110,7 +1110,7 @@ en:
           daily: Daily
           real_time: Real Time
           weekly: Weekly
-        notifications_sending_frequency: How often do you want to receive notifications?
+        notifications_sending_frequency: How often do you want to receive the notifications digest email?
         own_activity: My own activity, like when someone comments in my proposal or mentions me
         receive_notifications_about: I want to get notifications about
         send_notifications_by_email: Send notifications by email
