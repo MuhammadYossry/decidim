@@ -1107,6 +1107,7 @@ en:
         newsletter_notifications: I want to receive newsletters
         newsletters: Newsletters
         notifications_sending_frequencies:
+          none: None
           daily: Daily
           weekly: Weekly
         notifications_sending_frequency: How often do you want to receive the notifications digest email?
